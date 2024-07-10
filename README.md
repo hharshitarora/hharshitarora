@@ -9,6 +9,15 @@
 - ⚡ Fun fact: ...
   
 <!--START_SECTION:waka-->
+
+```txt
+Python       2 hrs 6 mins    █████████████████░░░░░░░░   68.56 %
+Markdown     32 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.54 %
+JavaScript   13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
+Other        11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
