@@ -3,8 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Swift   5 mins          ████████████████████████▓   99.14 %
-XML     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
