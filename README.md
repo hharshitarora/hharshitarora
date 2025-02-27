@@ -3,7 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JSON    14 mins         ██████████░░░░░░░░░░░░░░░   39.51 %
+Swift   14 mins         █████████▓░░░░░░░░░░░░░░░   38.93 %
+XML     6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.63 %
+HTML    1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
