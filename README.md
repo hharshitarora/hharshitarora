@@ -3,10 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Swift       16 mins         █████████████████▒░░░░░░░   69.06 %
-CocoaPods   7 mins          ███████▓░░░░░░░░░░░░░░░░░   30.85 %
-Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-XML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
