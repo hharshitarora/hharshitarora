@@ -3,9 +3,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Swift        1 hr 32 mins    ███████████████████████▓░   94.88 %
-Git Config   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-Markdown     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+Swift        24 mins         ██████████████████████▓░░   91.00 %
+Git Config   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
 ```
 
 <!--END_SECTION:waka-->
