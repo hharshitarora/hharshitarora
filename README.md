@@ -6,7 +6,8 @@
 Python     1 hr 54 mins    ██████████████▒░░░░░░░░░░   56.80 %
 Markdown   1 hr 26 mins    ██████████▓░░░░░░░░░░░░░░   43.20 %
 ```
-<figure><embed src="https://wakatime.com/share/@2890a257-8cc3-470b-a1a9-41e38cd2d4a1/09ed2cf3-84f1-43b8-8397-5351bb2411e0.svg"></embed></figure>
+.. image:: https://wakatime.com/share/@2890a257-8cc3-470b-a1a9-41e38cd2d4a1/6c381503-5517-4016-be5b-89c6e2ce3888.png
+    :target: https://wakatime.com/
 <!--END_SECTION:waka-->
 
 <!--
