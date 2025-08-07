@@ -6,7 +6,7 @@
 Python     1 hr 54 mins    ██████████████▒░░░░░░░░░░   56.80 %
 Markdown   1 hr 26 mins    ██████████▓░░░░░░░░░░░░░░   43.20 %
 ```
-
+<figure><embed src="https://wakatime.com/share/@2890a257-8cc3-470b-a1a9-41e38cd2d4a1/09ed2cf3-84f1-43b8-8397-5351bb2411e0.svg"></embed></figure>
 <!--END_SECTION:waka-->
 
 <!--
@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
