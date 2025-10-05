@@ -3,10 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         11 mins         █████████████████████░░░░   84.47 %
-JavaScript   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
-TypeScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
-Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
