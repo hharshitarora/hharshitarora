@@ -3,9 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   0 secs          ██████████████████████▓░░   90.79 %
-JSON       0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
-TSConfig   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
