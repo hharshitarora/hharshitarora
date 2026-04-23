@@ -55,6 +55,8 @@ AI Chrome extension that rewrites your messages into strong, professional commun
 ## 🎯 Currently Targeting
 
 Early-stage startups (seed–Series B) where engineering = building the product, not just implementing tickets.
+
+
 Roles: **AI Engineer · Agent Engineer · Founding Engineer · Full-Stack AI**
 
 Open to: remote or hybrid | Available: immediately
