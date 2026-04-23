@@ -1,66 +1,66 @@
 # Harshit Arora
 
-I build and ship products end-to-end.
+**Founding Engineer** — I build and ship full systems, not just features.
 
-From idea to production, across backend, product, and user experience.
+Backend-first, product-minded, AI-native. 5+ years shipping at scale (fintech + e-commerce, millions of users). Now building at the intersection of AI and automation.
 
----
-
-## What I Do
-
-• Turn ideas into working systems quickly
-• Build across the stack, not just one layer
-• Focus on real-world usage, not demos
+📍 Dallas, TX &nbsp;|&nbsp; 📬 harshitar10@protonmail.com &nbsp;|&nbsp; 💼 [linkedin.com/in/hharshitarora](https://linkedin.com/in/hharshitarora)
 
 ---
 
-## Selected Work
+## 🔨 Currently Building
+Optiva AI — AI-powered automation systems for small and medium businesses. Replaces the manual, repetitive ops work that kills SMB productivity — lead follow-up, appointment scheduling, inbound triage, and internal workflows — with custom agent pipelines that run 24/7 without headcount.
+Built for business owners who don't have an ops team. Plugs into the tools they already use.
 
-A few things I’ve built recently:
-
-### Optiva AI
-
-AI systems for businesses focused on automation and workflow efficiency
-
-### Voice AI System
-
-Automated calling and lead qualification system with real-world integrations
-
-### Reply Like a Boss
-
-AI Chrome extension for rewriting messages into strong, workplace-safe communication
-
-### AwkTalk
-
-AI-powered conversation assistant with speech processing and structured outputs
+> Stack: Python · n8n · LLM agents · CRM integrations · API automation
 
 ---
 
-## Background
+## 🚀 Selected Projects
 
-Software Engineer with 5+ years building high-scale systems
+### [Homeweek AI Call Center](https://github.com/hharshitarora/homeweek-ai-call-center)
+Voice AI system that handles inbound lead qualification calls end-to-end — from answering to structured output — replacing manual SDR work.
+> JavaScript · Twilio · Deepgram · LLM routing
 
-• Backend systems used by millions (fintech + e-commerce)
-• Improved latency, reliability, and cost at scale
-• Strong foundation in distributed systems
+### [Optiva AI](https://github.com/hharshitarora)
+Automation and workflow AI systems for businesses — custom agent pipelines tailored to operational bottlenecks.
+> Python · Agent frameworks · API integrations
 
----
+### [AwkTalk](https://github.com/hharshitarora/AwkTalk2)
+AI-powered real-time conversation assistant with on-device speech processing and structured response generation.
+> Swift · iOS · Speech frameworks · LLM integration
 
-## How I Think
+### [Reply Like a Boss](https://github.com/hharshitarora/reply-like-a-boss)
+AI Chrome extension that rewrites your messages into strong, professional communication in one click.
+> TypeScript · Chrome Extension API · LLM prompt engineering
 
-• Build things people actually use
-• Optimize for speed and iteration
-• Understand the problem before writing code
 
----
-
-## Currently
-
-Exploring AI systems, automation, and product-driven engineering.
 
 ---
 
-## Reach Out
+## 🧠 How I Think
 
-LinkedIn: https://linkedin.com/in/hharshitarora
-Email: [harshitar10@protonmail.com](mailto:harshitar10@protonmail.com)
+- **Bias toward shipping** — working systems beat perfect designs
+- **Full-stack ownership** — I own the idea, the infra, the UX, and the iteration
+- **Real usage over demos** — I build things that solve actual problems, then optimize
+
+---
+
+## 📊 Background
+
+- 5+ years building high-scale backend systems in fintech and e-commerce
+- Shipped infra handling millions of transactions and users
+- Strong foundation in distributed systems, latency optimization, and reliability
+
+---
+
+## 🎯 Currently Targeting
+
+Early-stage startups (seed–Series B) where engineering = building the product, not just implementing tickets.
+Roles: **AI Engineer · Agent Engineer · Founding Engineer · Full-Stack AI**
+
+Open to: remote or hybrid | Available: immediately
+
+---
+
+*"Move fast, own the outcome, make it work for real users."*
