@@ -4,7 +4,7 @@
 
 Backend-first, product-minded, AI-native. 5+ years shipping at scale (fintech + e-commerce, millions of users). Now building at the intersection of AI and automation.
 
-📍 Dallas, TX &nbsp;|&nbsp; 📬 harshitar10@protonmail.com &nbsp;|&nbsp; 💼 [linkedin.com/in/hharshitarora](https://linkedin.com/in/hharshitarora)
+📍 Dallas, TX &nbsp;|&nbsp; 📬 harshitvarora@gmail.com &nbsp;|&nbsp; 💼 [linkedin.com/in/hharshitarora](https://linkedin.com/in/hharshitarora)
 
 ---
 
