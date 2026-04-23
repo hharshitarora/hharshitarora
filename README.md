@@ -18,13 +18,13 @@ Built for business owners who don't have an ops team. Plugs into the tools they 
 
 ## 🚀 Selected Projects
 
-### [Homeweek AI Call Center](https://github.com/hharshitarora/homeweek-ai-call-center)
-Voice AI system that handles inbound lead qualification calls end-to-end — from answering to structured output — replacing manual SDR work.
-> JavaScript · Twilio · Deepgram · LLM routing
-
 ### [Optiva AI](https://github.com/hharshitarora)
 Automation and workflow AI systems for businesses — custom agent pipelines tailored to operational bottlenecks.
 > Python · Agent frameworks · API integrations
+
+### [AI Lead Generation System](https://github.com/hharshitarora/homeweek-ai-call-center)
+Voice AI system that handles inbound lead qualification calls end-to-end — from answering to structured output — replacing manual SDR work.
+> JavaScript · Twilio · Deepgram · LLM routing
 
 ### [AwkTalk](https://github.com/hharshitarora/AwkTalk2)
 AI-powered real-time conversation assistant with on-device speech processing and structured response generation.
@@ -33,8 +33,6 @@ AI-powered real-time conversation assistant with on-device speech processing and
 ### [Reply Like a Boss](https://github.com/hharshitarora/reply-like-a-boss)
 AI Chrome extension that rewrites your messages into strong, professional communication in one click.
 > TypeScript · Chrome Extension API · LLM prompt engineering
-
-
 
 ---
 
