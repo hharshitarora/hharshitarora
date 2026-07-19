@@ -3,7 +3,7 @@ Harshit Arora | Founding Engineer
 I build scalable, agentic systems that turn complex business problems into reliable, autonomous software. From cost-optimized infrastructure at Michaels to building real-time voice AI for startups, I thrive in environments where systems design and speed are the competitive advantage.
 
 The Stack
-- AI/Agents: LangGraph, Claude 3.5 Sonnet, CrewAI, PydanticAI
+- AI/Agents: LangGraph, Frontier LLM Orchestration, CrewAI, PydanticAI
 - Infrastructure: Supabase (pgvector/RLS), Vercel Edge, AWS, Railway
 - Observability: OpenTelemetry, Axiom
 - Language/Frameworks: TypeScript (Next.js), Python
