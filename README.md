@@ -2,6 +2,8 @@ Harshit Arora | Founding Engineer
 
 I build scalable, agentic systems that turn complex business problems into reliable, autonomous software. From cost-optimized infrastructure at Michaels to building real-time voice AI for startups, I thrive in environments where systems design and speed are the competitive advantage.
 
+📍 Dallas, TX  |  📬 harshitvarora@gmail.com  |  💼 linkedin.com/in/hharshitarora
+
 The Stack
 - AI/Agents: LangGraph, Frontier LLM Orchestration, CrewAI, PydanticAI
 - Infrastructure: Supabase (pgvector/RLS), Vercel Edge, AWS, Railway
