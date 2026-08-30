@@ -11,9 +11,9 @@ Six years in backend engineering (ex-Barclays). I've shipped a production voice-
 agentic incident-triage workflow that cut failure-investigation time 50–60%, and cut API latency
 25% on high-traffic systems.
 
-**Focus:** voice agents · agentic workflows · RAG · evals & observability
-**Stack:** Java · Spring Boot · Python · Node.js · Go · AWS · GCP · MongoDB · SpannerDB · Redis · Vapi
-**Open to:** early-stage SWE roles — NYC / SF
+**Focus** &nbsp;·&nbsp; voice agents · agentic workflows · RAG · evals & observability <br/>
+**Stack** &nbsp;·&nbsp; Java · Spring Boot · Python · Node.js · Go · AWS · GCP · MongoDB · SpannerDB · Redis · Vapi <br/>
+**Open to** &nbsp;·&nbsp; early-stage SWE roles — NYC / SF
 
 ## What I'm Building
 
