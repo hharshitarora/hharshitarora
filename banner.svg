@@ -1,25 +1,54 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-label="Harshit Arora — Backend / AI Engineer">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="55%" stop-color="#111a2b"/>
-      <stop offset="100%" stop-color="#0a1f1c"/>
+      <stop offset="0%" stop-color="#070b12"/>
+      <stop offset="50%" stop-color="#0b1524"/>
+      <stop offset="100%" stop-color="#07130f"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#39d0d8"/>
       <stop offset="100%" stop-color="#5b8def"/>
     </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#39d0d8" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#39d0d8" stop-opacity="0"/>
+    </radialGradient>
   </defs>
+
   <rect width="1200" height="300" fill="url(#bg)"/>
-  <rect width="1200" height="6" y="294" fill="url(#accent)"/>
-  <text x="60" y="130" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="64" font-weight="700" fill="#e6edf3">Harshit Arora</text>
-  <text x="62" y="182" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="500" fill="url(#accent)">Backend / AI Engineer</text>
-  <text x="62" y="228" font-family="'Consolas','SF Mono',monospace" font-size="21" fill="#8b98a9">voice agents · agentic workflows · evals &amp; reliability</text>
-  <g fill="none" stroke="#39d0d8" stroke-width="2" opacity="0.5">
-    <circle cx="1020" cy="150" r="6" fill="#39d0d8"/>
-    <path d="M1020 150 L1100 100"/><circle cx="1100" cy="100" r="5" fill="#5b8def"/>
-    <path d="M1020 150 L1110 170"/><circle cx="1110" cy="170" r="5" fill="#5b8def"/>
-    <path d="M1020 150 L1060 220"/><circle cx="1060" cy="220" r="5" fill="#5b8def"/>
-    <path d="M1100 100 L1150 140"/><circle cx="1150" cy="140" r="4" fill="#39d0d8"/>
+
+  <!-- circuit traces (left + right framing), low opacity so text stays readable -->
+  <g stroke="#1f6f74" stroke-width="1.6" fill="none" opacity="0.55">
+    <path d="M0 60 H120 V110 H80"/>
+    <path d="M0 150 H60 V90"/>
+    <path d="M0 210 H140 V170 H100 V140"/>
+    <path d="M0 250 H90 V220"/>
+    <path d="M1200 50 H1080 V100 H1120"/>
+    <path d="M1200 130 H1040 V90 H1080"/>
+    <path d="M1200 190 H1060 V150"/>
+    <path d="M1200 250 H1100 V210 H1140 V180"/>
+    <path d="M1010 40 V120 H960"/>
   </g>
+  <!-- solder pads / vias -->
+  <g fill="#2a8f95" opacity="0.7">
+    <circle cx="80" cy="110" r="3.5"/><circle cx="60" cy="90" r="3.5"/>
+    <circle cx="100" cy="140" r="3.5"/><circle cx="90" cy="220" r="3.5"/>
+    <circle cx="1120" cy="100" r="3.5"/><circle cx="1080" cy="90" r="3.5"/>
+    <circle cx="1060" cy="150" r="3.5"/><circle cx="1140" cy="180" r="3.5"/>
+    <circle cx="960" cy="120" r="3.5"/>
+  </g>
+  <!-- glowing accent nodes -->
+  <g>
+    <circle cx="1080" cy="150" r="26" fill="url(#glow)"/>
+    <circle cx="1080" cy="150" r="5" fill="#39d0d8"/>
+    <circle cx="140" cy="170" r="20" fill="url(#glow)"/>
+    <circle cx="140" cy="170" r="4" fill="#5b8def"/>
+  </g>
+
+  <!-- text -->
+  <text x="70" y="132" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="62" font-weight="700" fill="#e6edf3">Harshit Arora</text>
+  <text x="72" y="180" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="29" font-weight="600" fill="url(#accent)">Backend / AI Engineer</text>
+  <text x="72" y="224" font-family="'Consolas','SF Mono',monospace" font-size="20" fill="#8b98a9">voice agents · agentic workflows · evals &amp; reliability</text>
+
+  <rect width="1200" height="5" y="295" fill="url(#accent)"/>
 </svg>
