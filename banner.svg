@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-label="Harshit Arora — Backend / AI Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="55%" stop-color="#111a2b"/>
+      <stop offset="100%" stop-color="#0a1f1c"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#39d0d8"/>
+      <stop offset="100%" stop-color="#5b8def"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="6" y="294" fill="url(#accent)"/>
+  <text x="60" y="130" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="64" font-weight="700" fill="#e6edf3">Harshit Arora</text>
+  <text x="62" y="182" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="500" fill="url(#accent)">Backend / AI Engineer</text>
+  <text x="62" y="228" font-family="'Consolas','SF Mono',monospace" font-size="21" fill="#8b98a9">voice agents · agentic workflows · evals &amp; reliability</text>
+  <g fill="none" stroke="#39d0d8" stroke-width="2" opacity="0.5">
+    <circle cx="1020" cy="150" r="6" fill="#39d0d8"/>
+    <path d="M1020 150 L1100 100"/><circle cx="1100" cy="100" r="5" fill="#5b8def"/>
+    <path d="M1020 150 L1110 170"/><circle cx="1110" cy="170" r="5" fill="#5b8def"/>
+    <path d="M1020 150 L1060 220"/><circle cx="1060" cy="220" r="5" fill="#5b8def"/>
+    <path d="M1100 100 L1150 140"/><circle cx="1150" cy="140" r="4" fill="#39d0d8"/>
+  </g>
+</svg>

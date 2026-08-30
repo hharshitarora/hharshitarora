@@ -1,20 +1,30 @@
-Harshit Arora | Founding Engineer
+<p align="center">
+  <img src="./banner.svg" width="100%" alt="Harshit Arora — Backend / AI Engineer" />
+</p>
 
-I build scalable, agentic systems that turn complex business problems into reliable, autonomous software. From cost-optimized infrastructure at Michaels to building real-time voice AI for startups, I thrive in environments where systems design and speed are the competitive advantage.
+<h1 align="center">Harshit Arora</h1>
+<p align="center"><b>Backend / AI Engineer · Voice Agents · Agentic Workflows · Evals & Reliability</b></p>
 
-📍 Dallas, TX  |  📬 harshitvarora@gmail.com  |  💼 linkedin.com/in/hharshitarora
+---
 
-The Stack
-- AI/Agents: LangGraph, Frontier LLM Orchestration, CrewAI, PydanticAI
-- Infrastructure: Supabase (pgvector/RLS), Vercel Edge, AWS, Railway
-- Observability: OpenTelemetry, Axiom
-- Language/Frameworks: TypeScript (Next.js), Python
+Six years in backend engineering (ex-Barclays). I've shipped a production voice-AI agent and an
+agentic incident-triage workflow that cut failure-investigation time 50–60%, and cut API latency
+25% on high-traffic systems.
 
-Impact
-- Michaels: Reduced infrastructure costs by 30% and investigation time for complex triage bugs by 60% using LLM-driven automation
-- Side Projects: Shipped production-grade Chrome extensions (Boss Dial) and real-time voice AI integrations, gaining real-world user feedback and usage
+**Focus:** voice agents · agentic workflows · RAG · evals & observability
+**Stack:** Java · Spring Boot · Python · Node.js · Go · AWS · GCP · MongoDB · SpannerDB · Redis · Vapi
+**Open to:** early-stage SWE roles — NYC / SF
 
-Featured Projects
-- [production-health-copilot](https://github.com/hharshitarora/production-health-copilot): Stateful agentic system for auto-patching production code
-- [homeweek-ai-call-center](https://github.com/hharshitarora/homeweek-ai-call-center): High-concurrency, bilingual voice integration layer
-- [reply-like-a-boss](https://github.com/hharshitarora/reply-like-a-boss): Chrome extension rewriting workplace communication with LLM-grade confidence
+## What I'm Building
+
+| Project | The Question I Was Answering | Result |
+|---|---|---|
+| **Incident-Triage Agent** | Can an agent triage a prod incident the way I did by hand — logs → git history → issues → root cause? | 🚧 Building · LangGraph, each phase independently controllable |
+| **Voice-AI RAG Agent** | Can a voice agent answer only from grounded knowledge — and know when it can't? | 🚧 Building · Vapi + RAG + evals · callable demo |
+| **LLM Eval Pipeline** | How do you gate quality on a non-deterministic system in CI? | 🚧 Building · blocks a merge when quality regresses |
+| **[Reply Like a Boss](https://reply-like-a-boss.vercel.app)** | Can one click make workplace writing more confident, at edge latency? | ✅ Shipped · Chrome extension + Vercel edge API |
+
+<p align="left">
+  <a href="https://linkedin.com/in/hharshitarora"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" /></a>
+  <a href="mailto:harshitvarora@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=flat" alt="Email" /></a>
+</p>
