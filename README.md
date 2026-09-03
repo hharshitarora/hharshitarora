@@ -21,7 +21,7 @@ agentic incident-triage workflow that cut failure-investigation time 50–60%, a
 |---|---|---|
 | **[Incident-Triage Agent](https://github.com/hharshitarora/incident-triage-agent)** | Can an agent triage a prod incident the way I did by hand — logs → git history → issues → root cause? | ✅ v0 live · traces a crash to the culprit commit at 90% confidence · CI green |
 | **Voice-AI RAG Agent** | Can a voice agent answer only from grounded knowledge — and know when it can't? | 🚧 Building · Vapi + RAG + evals · callable demo |
-| **LLM Eval Pipeline** | How do you gate quality on a non-deterministic system in CI? | 🚧 Building · blocks a merge when quality regresses |
+| **[LLM Eval Gate](https://github.com/hharshitarora/llm-eval-gate)** | How do you gate quality on a non-deterministic system in CI? | ✅ v0 live · blocks a merge on real regressions, not run-to-run noise · CI green |
 | **[Reply Like a Boss](https://reply-like-a-boss.vercel.app)** | Can one click make workplace writing more confident, at edge latency? | ✅ Shipped · Chrome extension + Vercel edge API |
 
 <p align="left">
