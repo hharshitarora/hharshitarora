@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Harshit Arora — Backend / AI Engineer" />
+  <img src="./banner.svg" width="100%" alt="Harshit Arora, Backend / AI Engineer" />
 </p>
 
 <h1 align="center">Harshit Arora</h1>
@@ -12,19 +12,20 @@ agentic incident-triage workflow that cut failure-investigation time 50–60%, a
 25% on high-traffic systems.
 
 Most of what I've built is private: cart and checkout at Michaels, trading systems at Barclays,
-voice agents for clients. These four are the public versions, built to the same standard.
+voice agents for clients. The projects below are the public versions, built to the same standard. Each one has a live page you can click through.
 
 **Focus** &nbsp;·&nbsp; voice agents · agentic workflows · RAG · evals & observability <br/>
 **Stack** &nbsp;·&nbsp; Java · Spring Boot · Python · Node.js · Go · AWS · GCP · MongoDB · SpannerDB · Redis · Vapi <br/>
-**Open to** &nbsp;·&nbsp; early-stage SWE roles — NYC / SF
+**Open to** &nbsp;·&nbsp; early-stage SWE roles, NYC / SF
 
 ## What I'm Building
 
 | Project | The Question I Was Answering | Result |
 |---|---|---|
-| **[Incident-Triage Agent](https://github.com/hharshitarora/incident-triage-agent)** | Can an agent triage a prod incident the way I did by hand — logs → git history → issues → root cause? | ✅ v0 live · traces a crash to the culprit commit at 90% confidence · CI green |
-| **[Grounded Voice Agent](https://github.com/hharshitarora/grounded-voice-agent)** | Can a voice agent answer only from grounded knowledge — and know when it can't? | ✅ v0 live · transfers instead of guessing · hallucination rate measured, not claimed |
-| **[LLM Eval Gate](https://github.com/hharshitarora/llm-eval-gate)** | How do you gate quality on a non-deterministic system in CI? | ✅ v0 live · blocks a merge on real regressions, not run-to-run noise · CI green |
+| **[Grounded Voice Agent](https://github.com/hharshitarora/grounded-voice-agent)** | Can a voice agent answer only from grounded knowledge, and know when it can't? | ✅ **[Play a call](https://hharshitarora.github.io/grounded-voice-agent/)** · full voice pipeline: speech to text, LLM, text to speech · code makes the decisions · transfers instead of guessing |
+| **[callgrade](https://github.com/hharshitarora/callgrade)** | How far can you trust an LLM's grade of a voice call? | ✅ **[Live demo](https://hharshitarora.github.io/callgrade/)** · grades calls from any platform · repeat runs, three judges, error bars, a held-out set |
+| **[Incident-Triage Agent](https://github.com/hharshitarora/incident-triage-agent)** | Can an agent triage a prod incident the way I did by hand: logs, codebase, git history, issues, root cause? | ✅ **[Live demo](https://hharshitarora.github.io/incident-triage-agent/)** · traces a crash to the culprit commit at 90% confidence · CI green |
+| **[LLM Eval Gate](https://github.com/hharshitarora/llm-eval-gate)** | How do you gate quality on a non-deterministic system in CI? | ✅ **[Live demo](https://hharshitarora.github.io/llm-eval-gate/)** · blocks a merge on real regressions, not run-to-run noise · CI green |
 | **[Reply Like a Boss](https://github.com/hharshitarora/reply-like-a-boss)** | Can one click make workplace writing more confident, at edge latency? | ✅ Live on the Chrome Web Store · [bossdial.com](https://bossdial.com) · Claude Haiku vs GPT-4o, A/B tested |
 
 <p align="left">
