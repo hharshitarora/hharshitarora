@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg" />
-    <img src="./banner-light.svg" width="100%" alt="Harshit Arora, software engineer and builder. I build mobile apps, APIs, AI agents, AI features, workflows and websites." />
+    <source media="(prefers-color-scheme: dark)" srcset="./banner-v2-dark.svg" />
+    <img src="./banner-v2-light.svg" width="100%" alt="Harshit Arora, software engineer and builder. I build mobile apps, APIs, AI agents, AI features, workflows and websites." />
   </picture>
 </p>
 
