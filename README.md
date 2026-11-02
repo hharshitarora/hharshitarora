@@ -1,9 +1,12 @@
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Harshit Arora, Software Engineer" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg" />
+    <img src="./banner-light.svg" width="100%" alt="Harshit Arora. I build mobile apps, APIs, AI agents, AI features, workflows and websites." />
+  </picture>
 </p>
 
 <h1 align="center">Harshit Arora</h1>
-<p align="center"><b>Software Engineer · Voice Agents · Agentic Workflows · Evals & Reliability</b></p>
+<p align="center"><b>Software Engineer · Builder</b></p>
 
 ---
 
@@ -16,7 +19,6 @@ latency 25% at 400 requests a second.
 Most of that work is private. The projects below are the public versions, built to the same
 standard, and each one has something live you can click through.
 
-**Focus** &nbsp;·&nbsp; voice agents · agentic workflows · RAG · evals & observability <br/>
 **Stack** &nbsp;·&nbsp; Java · Spring Boot · Python · Node.js · AWS · GCP · MongoDB · SpannerDB · Postgres · Redis <br/>
 **Open to** &nbsp;·&nbsp; early-stage SWE roles, NYC / SF
 
