@@ -1,22 +1,23 @@
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Harshit Arora, Backend / AI Engineer" />
+  <img src="./banner.svg" width="100%" alt="Harshit Arora, Software Engineer" />
 </p>
 
 <h1 align="center">Harshit Arora</h1>
-<p align="center"><b>Backend / AI Engineer · Voice Agents · Agentic Workflows · Evals & Reliability</b></p>
+<p align="center"><b>Software Engineer · Voice Agents · Agentic Workflows · Evals & Reliability</b></p>
 
 ---
 
-Six years in backend engineering (ex-Barclays). I've shipped a production voice-AI agent and an
-agentic incident-triage workflow that cut failure-investigation time 50–60%, and cut API latency
-25% on high-traffic systems.
+Software engineer, six years: cart, checkout and payments at Michaels, trading systems at Barclays.
+I built a production LLM triage agent now used by about 15 engineers on other teams, shipped a
+voice AI agent running 500+ calls a week across three client pilots, and cut cart and checkout API
+latency 25% at 400 requests a second.
 
-Most of what I've built is private: cart and checkout at Michaels, trading systems at Barclays,
-voice agents for clients. The projects below are the public versions, built to the same standard. Each one has a live page you can click through.
+Most of that work is private. The projects below are the public versions, built to the same
+standard, and each one has something live you can click through.
 
 **Focus** &nbsp;·&nbsp; voice agents · agentic workflows · RAG · evals & observability <br/>
-**Stack** &nbsp;·&nbsp; Java · Spring Boot · Python · Node.js · Go · AWS · GCP · MongoDB · SpannerDB · Redis · Vapi <br/>
-**Open to** &nbsp;·&nbsp; early-stage SWE roles, NYC / SF
+**Stack** &nbsp;·&nbsp; Java · Spring Boot · Python · Node.js · AWS · GCP · MongoDB · SpannerDB · Postgres · Redis <br/>
+**Open to** &nbsp;·&nbsp; software engineering and applied AI roles, NYC / SF / remote
 
 ## What I'm Building
 
