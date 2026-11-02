@@ -8,7 +8,8 @@
 ---
 
 Software engineer, six years: cart, checkout and payments at Michaels, trading systems at Barclays.
-I built a production LLM triage agent now used by about 15 engineers on other teams, shipped a
+I built a production LLM triage agent that cut investigation 50-60% and is now used by about 15
+engineers on other teams, shipped a
 voice AI agent running 500+ calls a week across three client pilots, and cut cart and checkout API
 latency 25% at 400 requests a second.
 
@@ -17,7 +18,7 @@ standard, and each one has something live you can click through.
 
 **Focus** &nbsp;·&nbsp; voice agents · agentic workflows · RAG · evals & observability <br/>
 **Stack** &nbsp;·&nbsp; Java · Spring Boot · Python · Node.js · AWS · GCP · MongoDB · SpannerDB · Postgres · Redis <br/>
-**Open to** &nbsp;·&nbsp; software engineering and applied AI roles, NYC / SF / remote
+**Open to** &nbsp;·&nbsp; early-stage SWE roles, NYC / SF
 
 ## What I'm Building
 
